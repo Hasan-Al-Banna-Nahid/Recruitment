@@ -1,0 +1,23 @@
+[
+  {
+    "jobName": "Software Engineer",
+    "salary": "$80,000",
+    "availability": "Full-Time",
+    "employmentType": "Full-Time",
+    "location": "San Francisco"
+  },
+  {
+    "jobName": "Marketing Manager",
+    "salary": "$65,000",
+    "availability": "Part-Time",
+    "employmentType": "Part-Time",
+    "location": "New York City"
+  },
+  {
+    "jobName": "Graphic Designer",
+    "salary": "$50,000",
+    "availability": "Full-Time",
+    "employmentType": "Full-Time",
+    "location": "London"
+  }
+]

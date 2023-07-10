@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "location": "New York, USA",
+    "job": "React JS Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 2,
+    "name": "Emma Johnson",
+    "location": "London, UK",
+    "job": "HR Manager",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 3,
+    "name": "Michael Davis",
+    "location": "San Francisco, USA",
+    "job": "Full Stack Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 4,
+    "name": "Sophia Lee",
+    "location": "Toronto, Canada",
+    "job": "UI/UX Designer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 5,
+    "name": "Daniel Brown",
+    "location": "Sydney, Australia",
+    "job": "Data Analyst",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 6,
+    "name": "Olivia Wilson",
+    "location": "Berlin, Germany",
+    "job": "Marketing Manager",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 7,
+    "name": "William Johnson",
+    "location": "Chicago, USA",
+    "job": "Frontend Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 8,
+    "name": "Ava Thompson",
+    "location": "Melbourne, Australia",
+    "job": "Product Manager",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 9,
+    "name": "James Anderson",
+    "location": "Paris, France",
+    "job": "Software Engineer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 10,
+    "name": "Mia Garcia",
+    "location": "Los Angeles, USA",
+    "job": "Graphic Designer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 11,
+    "name": "Alexander Martinez",
+    "location": "Madrid, Spain",
+    "job": "Backend Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 12,
+    "name": "Charlotte Adams",
+    "location": "Vancouver, Canada",
+    "job": "Data Scientist",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 13,
+    "name": "Liam Scott",
+    "location": "Mumbai, India",
+    "job": "System Administrator",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 14,
+    "name": "Grace Roberts",
+    "location": "Tokyo, Japan",
+    "job": "Mobile App Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 15,
+    "name": "Henry Taylor",
+    "location": "Austin, USA",
+    "job": "Database Administrator",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 16,
+    "name": "Ella Hernandez",
+    "location": "Barcelona, Spain",
+    "job": "Frontend Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 17,
+    "name": "Benjamin Turner",
+    "location": "Montreal, Canada",
+    "job": "UI Designer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 18,
+    "name": "Scarlett Walker",
+    "location": "Seoul, South Korea",
+    "job": "Data Analyst",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 19,
+    "name": "Jack Kelly",
+    "location": "Dublin, Ireland",
+    "job": "Product Manager",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 20,
+    "name": "Chloe Clark",
+    "location": "São Paulo, Brazil",
+    "job": "Software Engineer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 21,
+    "name": "Owen Roberts",
+    "location": "Edinburgh, UK",
+    "job": "DevOps Engineer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 22,
+    "name": "Zoe Adams",
+    "location": "Stockholm, Sweden",
+    "job": "Backend Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 23,
+    "name": "Sebastian Martin",
+    "location": "Copenhagen, Denmark",
+    "job": "Data Scientist",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 24,
+    "name": "Lily Cooper",
+    "location": "Vienna, Austria",
+    "job": "UI/UX Designer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 25,
+    "name": "Logan Phillips",
+    "location": "Moscow, Russia",
+    "job": "Frontend Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 26,
+    "name": "Amelia Watson",
+    "location": "Wellington, New Zealand",
+    "job": "Software Engineer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 27,
+    "name": "Noah Turner",
+    "location": "Oslo, Norway",
+    "job": "Database Administrator",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 28,
+    "name": "Abigail Garcia",
+    "location": "Mexico City, Mexico",
+    "job": "Full Stack Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 29,
+    "name": "Ethan Martinez",
+    "location": "Buenos Aires, Argentina",
+    "job": "Mobile App Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 30,
+    "name": "Harper Hall",
+    "location": "Hong Kong, China",
+    "job": "UI Designer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 31,
+    "name": "Mason Adams",
+    "location": "Rome, Italy",
+    "job": "Data Analyst",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 32,
+    "name": "Mila White",
+    "location": "Cape Town, South Africa",
+    "job": "Product Manager",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 33,
+    "name": "Elijah Thompson",
+    "location": "Helsinki, Finland",
+    "job": "Software Engineer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 34,
+    "name": "Avery Wright",
+    "location": "Singapore City, Singapore",
+    "job": "Frontend Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 35,
+    "name": "Sofia Rodriguez",
+    "location": "Amsterdam, Netherlands",
+    "job": "UX Designer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 36,
+    "name": "Matthew King",
+    "location": "Zurich, Switzerland",
+    "job": "Data Scientist",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 37,
+    "name": "Luna Hernandez",
+    "location": "Munich, Germany",
+    "job": "Backend Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 38,
+    "name": "Lucas Garcia",
+    "location": "Seoul, South Korea",
+    "job": "Full Stack Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 39,
+    "name": "Stella Wilson",
+    "location": "Dublin, Ireland",
+    "job": "Mobile App Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 40,
+    "name": "Jackson Davis",
+    "location": "São Paulo, Brazil",
+    "job": "UI Designer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 41,
+    "name": "Penelope Clark",
+    "location": "Oslo, Norway",
+    "job": "Software Engineer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 42,
+    "name": "Leo Adams",
+    "location": "Barcelona, Spain",
+    "job": "Database Administrator",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 43,
+    "name": "Mila Phillips",
+    "location": "Sydney, Australia",
+    "job": "Frontend Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 44,
+    "name": "Alexander Thompson",
+    "location": "Vancouver, Canada",
+    "job": "UX Designer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 45,
+    "name": "Zoe Turner",
+    "location": "London, UK",
+    "job": "Data Analyst",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 46,
+    "name": "Elijah Garcia",
+    "location": "Berlin, Germany",
+    "job": "Product Manager",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 47,
+    "name": "Layla Martinez",
+    "location": "San Francisco, USA",
+    "job": "Software Engineer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 48,
+    "name": "Nathan Wilson",
+    "location": "Toronto, Canada",
+    "job": "Backend Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 49,
+    "name": "Hazel Adams",
+    "location": "Los Angeles, USA",
+    "job": "Full Stack Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 50,
+    "name": "Ryan Taylor",
+    "location": "Paris, France",
+    "job": "Mobile App Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 51,
+    "name": "Chloe Roberts",
+    "location": "Mumbai, India",
+    "job": "UI/UX Designer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 52,
+    "name": "Andrew Walker",
+    "location": "Edinburgh, UK",
+    "job": "Data Scientist",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 53,
+    "name": "Eva Phillips",
+    "location": "Melbourne, Australia",
+    "job": "Frontend Developer",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  },
+  {
+    "id": 54,
+    "name": "William Turner",
+    "location": "Madrid, Spain",
+    "job": "Database Administrator",
+    "photo": "./Asset/Person/bohemian-man-with-his-arms-crossed-removebg-preview.png"
+  }
+]
